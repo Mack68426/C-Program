@@ -1,0 +1,41 @@
+{
+    "configurations": [
+      {
+        "name": "Win32",
+        "intelliSenseMode": "gcc-x64",
+        "compilerPath": "D:/MSYCS2/mingw64/bin/gcc.exe",
+        "includePath": [
+          "D:/MSYCS2/usr/include"
+        ],
+        "defines": [],
+        "browse": {
+          "path": [
+            "D:/MSYCS2/usr"
+          ],
+          "limitSymbolsToIncludedHeaders": true,
+          "databaseFilename": ""
+        },
+        "cStandard": "c99",
+        "cppStandard": "c++17"
+      }
+    ],
+    "version": 4
+  }
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
